@@ -1,0 +1,23 @@
+\contentsline {section}{\tocsection {}{1}{Introduction}}{2}{section.1}%
+\contentsline {subsection}{\tocsubsection {}{1.1}{The problem}}{2}{subsection.1.1}%
+\contentsline {subsection}{\tocsubsection {}{1.2}{This paper}}{2}{subsection.1.2}%
+\contentsline {subsection}{\tocsubsection {}{1.3}{Relation to known results}}{3}{subsection.1.3}%
+\contentsline {section}{\tocsection {}{2}{Preliminaries}}{3}{section.2}%
+\contentsline {section}{\tocsection {}{3}{Complete graphs and the block calculus}}{4}{section.3}%
+\contentsline {section}{\tocsection {}{4}{Planar, toroidal, and positive-genus families}}{6}{section.4}%
+\contentsline {section}{\tocsection {}{5}{Dirac-regular graphs}}{7}{section.5}%
+\contentsline {section}{\tocsection {}{6}{Maximum degree six: the counterexample and the six-regular case}}{8}{section.6}%
+\contentsline {subsection}{\tocsubsection {}{6.1}{The counterexample}}{8}{subsection.6.1}%
+\contentsline {subsection}{\tocsubsection {}{6.2}{Eulerian graphs of maximum degree six}}{8}{subsection.6.2}%
+\contentsline {subsection}{\tocsubsection {}{6.3}{The general $\Delta \le 6$ question}}{11}{subsection.6.3}%
+\contentsline {section}{\tocsection {}{7}{Odd degrees: the cubic case of Conjecture 6.4}}{11}{section.7}%
+\contentsline {section}{\tocsection {}{8}{Bounded degeneracy}}{14}{section.8}%
+\contentsline {section}{\tocsection {}{9}{Extremal examples and the shape of $f(n)$}}{15}{section.9}%
+\contentsline {section}{\tocsection {}{10}{Anatomy of the $\qopname \relax o{log}^*$ barrier}}{16}{section.10}%
+\contentsline {section}{\tocsection {}{11}{Concluding remarks and open problems}}{17}{section.11}%
+\contentsline {section}{\tocsection {Appendix}{A}{Proof status and computational verification}}{18}{appendix.A}%
+\contentsline {subsection}{\tocsubsection {}{}{General results}}{18}{section*.2}%
+\contentsline {subsection}{\tocsubsection {}{}{Six-regular graphs}}{19}{section*.3}%
+\contentsline {subsection}{\tocsubsection {}{}{Cubic and odd-regular graphs}}{19}{section*.4}%
+\contentsline {section}{\tocsection {Appendix}{}{Acknowledgments}}{20}{section*.5}%
+\contentsline {section}{\tocsection {Appendix}{}{References}}{20}{section*.6}%

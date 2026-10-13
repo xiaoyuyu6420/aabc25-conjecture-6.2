@@ -4,7 +4,7 @@
 
 > **Status: not peer-reviewed, not submitted.** Written and checked by an orchestrated AI system under human direction. Please treat it as a claim to be checked, not as an authority.
 >
-> *Note: [`paper/draft_v2/`](paper/draft_v2/) is a revised paper draft that includes this result (§6, with the computational verification summarized in its appendix); the older skeleton `draft_en.tex` predates it. The self-contained statement and proof of the result live in [`proof.md`](./proof.md).*
+> *Note: [`paper_submission/`](paper_submission/) contains the publication-ready, self-contained paper (LaTeX + PDF). [`paper/draft_v2/`](paper/draft_v2/) is an earlier, wider campaign draft that includes this result among others (§6); the older skeleton `draft_en.tex` predates it. The shortest self-contained statement and proof live in [`proof.md`](./proof.md).*
 
 ## Read this first
 
